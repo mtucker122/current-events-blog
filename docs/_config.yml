@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "We The People"
 title_separator          : "-"
 subtitle                 : "Remembering our shared humanity in divided times"
-name                     : &name "Humanity First" # &name is a YAML anchor which can be *referenced later
+name                     : &name "We The People" # &name is a YAML anchor which can be *referenced later
 description              : &description "Thoughtful commentary that centers human dignity in every discussion. A space for understanding across divides."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
