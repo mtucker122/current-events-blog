@@ -1,11 +1,13 @@
 title: "We The People: Unscripted"
 description: "Cutting through the noise. Talking about what really matters."
 url: "https://agreeable-rock-06dde0010.6.azurestaticapps.net"
+
 author:
   name: "Marcia Tucker"
   location: "United States"
 
 theme: "minimal-mistakes-jekyll"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -21,10 +23,10 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "single"
-      author: "Marcia Tucker"
+      layout: single
+      author: Marcia Tucker
       read_time: true
       comments: false
       share: true
